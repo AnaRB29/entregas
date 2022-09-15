@@ -10,3 +10,6 @@ Este es el cambio número 3
 - [Práctica 2](./COMANDOS-1.md)
 - [Práctica 4](https://github.com/AnaRB29/Practica4)
 - [Práctica 8](./Practica8.md)
+
+## PRACTICAS PARCIAL 2
+- [Práctica 1](https://github.com/AnaRB29/Parcial2.git)
