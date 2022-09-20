@@ -1,0 +1,90 @@
+commit ba4794742f6a75f189951301719da4ed0269f3bf
+Author: AnaRB29 <100314938+AnaRB29@users.noreply.github.com>
+Date:   Thu Sep 15 10:10:44 2022 -0500
+
+    Agregando enlace de la práctica 1 del parcial 2
+
+commit e22be48a89dae5083c08b8153b15b919f5d3632a
+Merge: d8bc3a5 117dc2b
+Author: AnaRB29 <100314938+AnaRB29@users.noreply.github.com>
+Date:   Tue Sep 13 10:37:52 2022 -0500
+
+    Merge branch 'js'
+
+commit d8bc3a507987995f46fc02612af733c5b5047f1a
+Author: AnaRB29 <100314938+AnaRB29@users.noreply.github.com>
+Date:   Tue Sep 13 10:26:30 2022 -0500
+
+    Agregando cambios al index.html desde la rama css
+
+commit 117dc2b85a81bbec672e6477f31e2f70bff72e44
+Author: AnaRB29 <100314938+AnaRB29@users.noreply.github.com>
+Date:   Tue Sep 13 10:09:09 2022 -0500
+
+    Creando archivo js desde la rama js
+
+commit 847f240c5da915aad284e29e2a4aedf506472864
+Author: AnaRB29 <100314938+AnaRB29@users.noreply.github.com>
+Date:   Tue Sep 13 10:04:05 2022 -0500
+
+    Subiendo archivo style desde la rama css
+
+commit 971f38f647e2ef10b9ffef79639aa695e0de845b
+Author: AnaRB29 <100314938+AnaRB29@users.noreply.github.com>
+Date:   Tue Sep 13 09:50:43 2022 -0500
+
+    Creando archivo index.html desde la rama html
+
+commit 7a41c22e01b17379620ffa01b3461797cad4fb48
+Author: AnaRB29 <100314938+AnaRB29@users.noreply.github.com>
+Date:   Tue Sep 13 09:35:37 2022 -0500
+
+    Cambio número 3
+
+commit 57a4e97cf26695d376bbeb6a27627127b0be96ce
+Author: Ana Rodriguez <cdmx2111@amerike.edu.mx>
+Date:   Tue Sep 6 20:26:04 2022 -0500
+
+    Agregando enlace y contenido de la práctica 8
+
+commit e85ca63c62703003df2b508c6d1a623ecc962eef
+Author: AnaRB29 <100314938+AnaRB29@users.noreply.github.com>
+Date:   Tue Sep 6 19:41:45 2022 -0500
+
+    "Agregando la licencia"
+
+commit 58490aa9a8ec9e01c5ef84c08a44703504ebf362
+Author: Ana Rodriguez <cdmx2111@amerike.edu.mx>
+Date:   Tue Sep 6 19:40:10 2022 -0500
+
+    Borrando licencia vacía
+
+commit 66abe0998118bb6301f2d08d91a3257421c4ab6a
+Author: AnaRB29 <100314938+AnaRB29@users.noreply.github.com>
+Date:   Tue Sep 6 19:38:03 2022 -0500
+
+    Create  license.txt
+
+commit 1f63b1c78543d2a90c4bf553b4a4b88f856e18b8
+Author: Ana Rodriguez <cdmx2111@amerike.edu.mx>
+Date:   Tue Sep 6 19:35:54 2022 -0500
+
+    Creando un archivo .gitignore
+
+commit 0dce288f91e0db1d441ba50e2247bae2d565fc59
+Author: Ana Rodriguez <cdmx2111@amerike.edu.mx>
+Date:   Tue Sep 6 19:30:43 2022 -0500
+
+    Agregando enlace de la práctica 4
+
+commit 218ba938e9cabba5eae9c675ae2871690812bd97
+Author: Ana Rodiguez <anarb2626@gmail.com>
+Date:   Thu Sep 1 11:04:57 2022 -0500
+
+    Este es el siguiente cambio
+
+commit 7093c115ae3f51391c77d165c576a4abb6683c45
+Author: Ana Rodiguez <anarb2626@gmail.com>
+Date:   Thu Sep 1 10:45:13 2022 -0500
+
+    Mi primer commit, creando mi repositorio

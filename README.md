@@ -13,3 +13,5 @@ Este es el cambio número 3
 
 ## PRACTICAS PARCIAL 2
 - [Práctica 1](https://github.com/AnaRB29/Parcial2.git)
+
+Creando la versión 1.0.0 de este repositorio
